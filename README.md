@@ -1,0 +1,2 @@
+# python
+core python concepts
